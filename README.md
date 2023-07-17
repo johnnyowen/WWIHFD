@@ -18,3 +18,6 @@ Credit to my family for all the recipes in that section.
 ## License
 Refer to license in repo.
 
+## Linky
+
+https://johnnyowen.github.io/WWIHFD/
